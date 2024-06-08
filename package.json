@@ -1,6 +1,6 @@
 {
   "name": "@nine-worlds/yggdrasil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A comprehensive package for React Web and React Native development, featuring configuration management, dependency injection, state management, routing, theming, utility functions, and testing tools. Simplify your development process and build scalable, maintainable applications effortlessly.",
   "main": "index.ts",

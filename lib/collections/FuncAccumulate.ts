@@ -1,0 +1,1 @@
+export type FuncAccumulate<TSource, TAccumulate, TResult> = (accumulate: TAccumulate, source: TSource, index: number) => TResult;

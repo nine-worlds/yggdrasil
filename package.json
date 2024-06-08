@@ -1,0 +1,27 @@
+{
+  "name": "@nine-worlds/yggdrasil",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A comprehensive package for React Web and React Native development, featuring configuration management, dependency injection, state management, routing, theming, utility functions, and testing tools. Simplify your development process and build scalable, maintainable applications effortlessly.",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+  ],
+  "author": "Balogh Zoltan Sandor",
+  "contributors": [
+    {
+      "name": "Balogh Zoltan Sandor",
+      "email": "zolika20010817@gmail.com"
+    },
+    {
+      "name": "Bence Szigeti",
+      "email": "sziget.bence1995@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}

@@ -1,0 +1,1 @@
+export type EqualityComparerFunc<T> = (a: T, b: T) => boolean;
